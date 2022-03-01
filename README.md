@@ -10,5 +10,5 @@ This repository contains:
  
 - processing/ - a directory containing Python notebooks that were used to process model output from the CESM1 LENS1, nudging experiments conducted for this study, and observational data (from NSIDC, ERA-Interim, GISTEMP, HADISST, HADCRUT). These are specific to Cheyenne
 
-- nudge-arctic_figs*.ipynb - the notebooks used to produce all figures in the above paper. Anyone should be able to run these after downloading this repository and the processed netcdf files in the associated Zenodo repository (add link) 
+- nudge-arctic_figs*.ipynb - the notebooks used to produce all figures in the above paper. Anyone should be able to run these after downloading this repository and the processed netcdf files in the associated Zenodo repository https://doi.org/10.5281/zenodo.6313665 
 
