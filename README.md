@@ -1,6 +1,6 @@
-Code for the figures and analysis in `Observed winds crucial for September Arctic sea ice loss', acccepted at Geophysical Research Letters
+Code for the figures and analysis in `Observed winds crucial for September Arctic sea ice loss'
 
-Final citation: TBU
+Citation: Roach, L. A., & Blanchard-Wrigglesworth, E. (2022). Observed winds crucial for September Arctic sea ice loss. Geophysical Research Letters, 49, e2022GL097884. https://doi.org/10.1029/2022GL097884
 
 Analysis code developed by LR.
 
